@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Educator WooCommerce Integration.
+ * Plugin Name: Educator WooCommerce Integration
  * Description: Integrate WooCommerce with Educator.
  * Version: 1.0
  * Author: dmytro.d
